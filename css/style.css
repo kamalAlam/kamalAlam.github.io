@@ -1,0 +1,35 @@
+#draggable { width: 150px; height: 150px; padding: 0.5em; }
+
+.bg-primary {
+    background-color: black;
+}
+
+body{
+     background-color: black;
+}
+
+#demo_1 {
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    color:blue;
+    background: red;
+}
+#demo_2{
+    height: 200px;
+    width: 300px;
+}
+#item{
+    
+}
+#jssor_1{
+    margin-left: 153px;
+}
+.imgButton{
+    text-align:center;
+}
+.thumbnail {
+	margin-bottom:7px;
+}
+
+ 
